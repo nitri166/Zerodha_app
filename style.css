@@ -1,0 +1,104 @@
+#parent{
+    padding-left: 100px;
+    padding-right: 100px;
+    
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    box-shadow: 2px 1px 2px #eee;
+
+
+
+    
+
+}
+#logo{
+    padding: 20px;
+}
+
+
+
+#part{
+    display: flex;
+    padding-right: 50px ;
+    
+}
+
+#box1{
+    padding: 20px;
+    color:#666;
+    
+    cursor: pointer;
+}
+#box2{
+    padding: 20px;
+    color:#666;
+    cursor: pointer;
+}
+#box3{
+    padding: 20px;
+    color:#666;
+    cursor: pointer;
+}
+#box4{
+    padding: 20px;
+    color:#666;
+    cursor: pointer;
+}
+#box5{
+    padding: 20px;
+    color:#666;
+    cursor: pointer;
+}
+
+
+#img{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px ;
+}
+#content1{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px ;
+
+}
+
+#content2{
+    display: flex;
+    justify-content: center;
+    
+    /* padding-top: 2px; */
+}
+#button-border{
+    margin-top:25px;
+
+display: flex;
+    justify-content: center;
+    
+}
+#button{
+    
+    padding:10px 10px;
+    color:#fff;
+    border-radius: 7px;
+    padding: 10px 30px;
+
+    
+    background-color: #387ed1;
+    font-size: 1.2em;
+    font-weight: 500;
+    line-height: 1.2em; 
+    cursor: pointer;
+ 
+
+
+
+}
+#button:hover{
+    background-color: #666;
+    color:#eee;
+    /* cursor: pointer; */
+
+}
